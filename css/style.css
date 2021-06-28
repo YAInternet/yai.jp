@@ -335,6 +335,18 @@ nav span{
   text-align: center;
   color: #ffffff;
 }
+#contact .add-friend {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#contact .qr-code {
+  text-align: center;
+}
+
+#contact .qr-code img {
+  width: 140px;
+}
 
 /* Footer */
 footer {
