@@ -269,17 +269,17 @@ nav span{
 }
 
 #contact .message {
-  text-align: center;
-  margin-top: 80px;
-}
-
-#contact .message span {
   font-family: NotoSansCJKjp;
   font-weight: normal;
   font-style: normal;
   font-stretch: normal;
   line-height: normal;
   letter-spacing: normal;
+  text-align: center;
+  margin-top: 80px;
+}
+
+#contact .message span {
   text-align: left;
   color: #00aefa;
   text-decoration: none;
